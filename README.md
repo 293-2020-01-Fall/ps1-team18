@@ -6,4 +6,4 @@ A [Smith College SDS](https://www.smith.edu/academics/statistics) introduction t
 1. P.K. Subban
 1. Mario Lemieux
 1. Guy Incognito
-
+1. Prof. Kim
