@@ -5,5 +5,5 @@ A [Smith College SDS](https://www.smith.edu/academics/statistics) introduction t
 1. Albert Y. Kim
 1. P.K. Subban
 1. Mario Lemieux
-
+1. Guy Incognito
 
