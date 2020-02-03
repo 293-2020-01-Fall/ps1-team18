@@ -8,6 +8,8 @@ A [Smith College SDS](https://www.smith.edu/academics/statistics) introduction t
 1. Guy Incognito
 1. Prof. Kim
 
+Note from Prof. Kim: Later on we'll practice merge conflicts and branching.
+
 Playing with markdown. For examples, see: RStudio -> Menu bar on top -> Help -> Markdown quick reference
 
 Fruit  | Cost
