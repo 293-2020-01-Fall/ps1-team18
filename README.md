@@ -14,3 +14,4 @@ Fruit  | Cost
 ------------- | -------------
 Pamplemousse  | 5.00
 Mango  | 8.12
+Kiwi | 5.76
