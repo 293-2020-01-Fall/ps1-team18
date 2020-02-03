@@ -7,3 +7,10 @@ A [Smith College SDS](https://www.smith.edu/academics/statistics) introduction t
 1. Mario Lemieux
 1. Guy Incognito
 1. Prof. Kim
+
+Playing with markdown: 
+
+Fruit  | Cost
+------------- | -------------
+Pamplemousse  | 5.00
+Mango  | 8.12
