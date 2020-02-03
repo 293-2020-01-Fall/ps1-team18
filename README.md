@@ -8,10 +8,18 @@ A [Smith College SDS](https://www.smith.edu/academics/statistics) introduction t
 1. Guy Incognito
 1. Prof. Kim
 
-Playing with markdown: 
+Playing with markdown. For examples, see: RStudio -> Menu bar on top -> Help -> Markdown quick reference
 
 Fruit  | Cost
 ------------- | -------------
 Pamplemousse  | 5.00
 Mango  | 8.12
 Kiwi | 5.76
+
+# Introduction
+
+Hello world
+
+## Context
+
+Hello Wald
