@@ -24,4 +24,4 @@ Hello world
 
 ## Context
 
-Hello Wald. Don't you mean world?
+Hello Wald.
